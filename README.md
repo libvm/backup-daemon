@@ -1,14 +1,3 @@
-## Features:
-
-Automated Backup:
-The daemon automatically copies files from the source directory to the backup directory according to the specified interval.
-
-Configurability:
-Users can configure the source directory, backup directory, and backup interval through a simple configuration file.
-
-Signal Handling:
-The daemon responds to various signals, allowing users to control its operation easily.
-
 ## Compilation:
 
 Compile the daemon using your preferred C++ compiler:
